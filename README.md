@@ -54,7 +54,7 @@ Below is a breakdown of each view included in the BI360 dashboard.
 * Support section for help & documentation.
 * UI/UX focused layout with icons and minimalistic structure.
 
-`![Screenshot of Home Page](Link-to-your-Screenshots-Folder/home-page.png)`
+![screenshot of home page](https://github.com/kori-ganesh/Business-insights-360/blob/main/home%20page.png)
 
 ### 💰 1. Finance View
 
@@ -64,7 +64,7 @@ Below is a breakdown of each view included in the BI360 dashboard.
 * A matrix showing Top/Bottom performance based on selected parameters.
 * Helps leadership understand profitability, cost drivers, and financial trends.
 
-`![Screenshot of Finance View](Link-to-your-Screenshots-Folder/finance-view.png)`
+![Screenshot of Finance View](https://github.com/kori-ganesh/Business-insights-360/blob/main/Finance%20View.png)
 
 ### 📈 2. Sales View
 
@@ -73,7 +73,7 @@ Below is a breakdown of each view included in the BI360 dashboard.
 * Donut chart showing bifurcation of Net Sales into COGS & Gross Margin.
 * Helps sales teams prioritize high-value customers and optimize low-margin segments.
 
-`![Screenshot of Sales View](Link-to-your-Screenshots-Folder/sales-view.png)`
+![Screenshot of Sales View](https://github.com/kori-ganesh/Business-insights-360/blob/main/Sales%20View.png)
 
 ### 🎯 3. Marketing View
 
@@ -82,7 +82,7 @@ Below is a breakdown of each view included in the BI360 dashboard.
 * Revenue contribution distribution based on product categories.
 * Helps marketing teams focus on the most profitable segments for targeted campaigns.
 
-`![Screenshot of Marketing View](Link-to-your-Screenshots-Folder/marketing-view.png)`
+![Screenshot of Marketing View](https://github.com/kori-ganesh/Business-insights-360/blob/main/Marketing%20View.png)
 
 ### 🚚 4. Supply Chain View
 
@@ -91,7 +91,7 @@ Below is a breakdown of each view included in the BI360 dashboard.
 * Key metrics by Customer and Product, including risk classification.
 * Helps supply chain teams identify stock-outs, forecasting gaps, and service risks.
 
-`![Screenshot of Supply Chain View](Link-to-your-Screenshots-Folder/supply-chain-view.png)`
+![Screenshot of Supply Chain View](https://github.com/kori-ganesh/Business-insights-360/blob/main/Supply%20Chain%20View.png)
 
 ### 👔 5. Executive View
 
@@ -102,7 +102,7 @@ Below is a breakdown of each view included in the BI360 dashboard.
 * Ribbon chart showing revenue contribution trend over years.
 * Sub-region performance snapshot for strategic decisions.
 
-`![Screenshot of Executive View](Link-to-your-Screenshots-Folder/executive-view.png)`
+![Screenshot of Executive View](https://github.com/kori-ganesh/Business-insights-360/blob/main/Executive%20View.png)
 
 ---
 
@@ -121,29 +121,15 @@ Below is a breakdown of each view included in the BI360 dashboard.
 
 ---
 
-## 🙏 Acknowledgements
-
-A huge thanks to:
-
-* **👨‍🏫 Dhaval Patel** – for simplifying complex BI concepts into actionable learning.
-* **👨‍🏫 Hemanand** – for clear, practical explanations of Power BI fundamentals.
-* **🎨 Ashish Nehra** – for design inspiration & dashboard UI/UX best practices.
-
-This project would not exist without their structured guidance through the CodeBasics program.
-
----
-
 ## 📎 Project Files
 
 * **📁 Power BI File (PBIX):** [➡ Link here](Insert-Link-to-PBIX-File-here)
-* **🎥 Dashboard Presentation Video:** [➡ Link here](Insert-Link-to-Video-here)
-* **🖼 Screenshots Folder:** [➡ Link here](Insert-Link-to-Screenshots-Folder-here)
+* **🎥 Dashboard Presentation Video:** [➡ Link here](https://www.linkedin.com/feed/update/urn:li:activity:7369207398726627330/)
 
 ---
 
 ## 📬 Connect With Me
 
-* **📧 Email:** [your email – link here](mailto:your-email-address)
-* **🔗 LinkedIn:** [your LinkedIn – link here](your-linkedin-profile-link)
-* **🌐 Portfolio Website:** [link here](your-portfolio-website-link)
+* **📧 Email:** [your email – link here](gldnganesh@gmail.com)
+* **🔗 LinkedIn:** [your LinkedIn – link here](https://www.linkedin.com/in/kori-ganesh/)
 
