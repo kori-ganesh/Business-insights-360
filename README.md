@@ -123,13 +123,18 @@ Below is a breakdown of each view included in the BI360 dashboard.
 
 ## 📎 Project Files
 
-* **📁 Power BI File (PBIX):** [➡ Link here](Insert-Link-to-PBIX-File-here)
-* **🎥 Dashboard Presentation Video:** [➡ Link here](https://www.linkedin.com/feed/update/urn:li:activity:7369207398726627330/)
+* **📁 Power BI File (PBIX):** [➡ Click here](https://app.powerbi.com/view?r=eyJrIjoiYzgyNjllOWMtYWFmOS00ZjdkLTgwN2YtODJmNTc4OTczMzU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+* **🎥 Dashboard Presentation Video:** [➡ Click here](https://www.linkedin.com/feed/update/urn:li:activity:7369207398726627330/)
 
 ---
 
 ## 📬 Connect With Me
 
-* **📧 Email:** [your email – link here](gldnganesh@gmail.com)
-* **🔗 LinkedIn:** [your LinkedIn – link here](https://www.linkedin.com/in/kori-ganesh/)
+I’m passionate about **solving business problems with data**.  
+This project reflects not only my technical skills but also my ability to **think critically, find insights, and tell compelling stories with data**.
 
+👉 If you’re hiring for **Data Analyst / BI Analyst roles**, I’d love to bring the same impact to your team.
+
+* **📧 Email:** gldnganesh@gmail.com
+* **🔗 LinkedIn:** [Click here](https://www.linkedin.com/in/kori-ganesh/)
+* **🌐 Portfolio Website:** [Click here](https://codebasics.io/portfolio/Kori-Ganesh)
