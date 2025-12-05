@@ -123,7 +123,7 @@ Below is a breakdown of each view included in the BI360 dashboard.
 
 ## 📎 Project Files
 
-* **📁 Power BI File (PBIX):** [➡ Click here](https://app.powerbi.com/view?r=eyJrIjoiYzgyNjllOWMtYWFmOS00ZjdkLTgwN2YtODJmNTc4OTczMzU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+* **📁 Power BI File (PBIX):** [➡ Click here](https://app.powerbi.com/view?r=eyJrIjoiYTRjYTU1OTgtZWM0Ni00ZjFmLTg2YzItZWY4NmRkOWE4ZDk0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 * **🎥 Dashboard Presentation Video:** [➡ Click here](https://www.linkedin.com/feed/update/urn:li:activity:7369207398726627330/)
 
 ---
